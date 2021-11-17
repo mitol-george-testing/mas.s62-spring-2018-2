@@ -1,0 +1,40 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c1d4f4f4-bea5-88f9-2eaf-6a7173f282c1",
+      "9145a949-ebb4-c304-0078-90b1e5118744"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Cryptocurrency Engineering and Design",
+  "course_description": "Bitcoin and other cryptographic currencies have gained attention over the years as the systems continue to evolve. This course looks at the design of Bitcoin and other cryptocurrencies and how they function in practice, focusing on cryptography, game theory, and network architecture.\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MAS.S62",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
